@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-archivo: Archivo;
+  --tips-and-details-overline1: Roboto;
+  --headline-h61: Poppins;
+  --font-mulish: Mulish;
+  --font-open-sans: "Open Sans";
+
+  /* font sizes */
+  --tips-and-details-overline1-size: 10px;
+  --tips-and-details-caption-size: 12px;
+  --body-body-21-size: 14px;
+  --body-body-11-size: 16px;
+  --font-size-lg: 16.1px;
+  --font-size-xl: 18.4px;
+  --font-size-2xl: 20.51px;
+  --headline-h61-size: 20px;
+  --headline-h51-size: 22px;
+  --font-size-5xl: 24px;
+  --headline-h4-size: 34px;
+  --headline-h2-size: 60px;
+  --headline-h1-size: 72px;
+
+  /* Colors */
+  --color-ghostwhite: #eef0fa;
+  --color-black: #000;
+  --color-darkslateblue-100: #5756b3;
+  --night-blue2: #383874;
+  --color-steelblue-100: #9292c1;
+  --color-steelblue-200: #5a5a89;
+  --snow2: #fff;
+  --color-gray-100: #171725;
+  --electric-green1: #00b929;
+  --color-lightslategray: #8484a0;
+  --color-orange: #ffa63f;
+  --fervent-pink: #ff708b;
+  --purple-heart1: #8676ff;
+  --lavender1: #dbdff1;
+  --color-springgreen: #38f261;
+  --color-darkslategray: #44444f;
+
+  /* Gaps */
+  --gap-5xs: 1px;
+  --gap-4xs: 2px;
+  --gap-3xs: 4px;
+  --gap-2xs: 6px;
+  --gap-xs: 10px;
+  --gap-sm: 12px;
+  --gap-md: 16px;
+  --gap-lg: 17px;
+  --gap-xl: 18px;
+  --gap-2xl: 24px;
+  --gap-3xl: 26px;
+  --gap-4xl: 30px;
+  --gap-5xl: 84px;
+
+  /* Paddings */
+  --padding-xs: 6px;
+  --padding-sm: 10px;
+  --padding-md: 20px;
+  --padding-lg: 30px;
+  --padding-xl: 32px;
+
+  /* border radiuses */
+  --br-2xs: 1px;
+  --br-xs: 6.9px;
+  --br-sm: 8px;
+  --br-md: 10px;
+  --br-lg: 16px;
+  --br-xl: 73px;
+  --br-2xl: 100px;
+
+  /* Effects */
+  --widget-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07),
+    0px 41.777610778808594px 33.42px rgba(108, 73, 172, 0.05),
+    0px 22.3363094329834px 17.87px rgba(108, 73, 172, 0.04),
+    0px 12.521552085876465px 10.02px rgba(108, 73, 172, 0.04),
+    0px 6.650102138519287px 5.32px rgba(108, 73, 172, 0.03),
+    0px 2.767256498336792px 2.21px rgba(108, 73, 172, 0.02);
+}
